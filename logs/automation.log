@@ -356,3 +356,23 @@
 16:33:08.987 [main] INFO  testCases.TC_001_AccountRegistrationTest - ********* finished TC_001_AccountRegistrationTest ******
 16:33:11.462 [main] INFO  testCases.TC_002_LoginTest - ***** String TC_002_LoginTest ****
 16:33:12.910 [main] INFO  testCases.TC_002_LoginTest - **** Finished TC_002_LoginTest  ***** 
+16:41:54.390 [main] INFO  testCases.TC_001_AccountRegistrationTest - ********* staring TC_001_AccountRegistrationTest ******
+16:41:54.439 [main] INFO  testCases.TC_001_AccountRegistrationTest - clicking on myaccount link
+16:41:54.703 [main] INFO  testCases.TC_001_AccountRegistrationTest - clicking on registration link
+16:41:55.139 [main] INFO  testCases.TC_001_AccountRegistrationTest - Proving customer details
+16:41:55.728 [main] INFO  testCases.TC_001_AccountRegistrationTest - clicking on continue
+16:41:58.205 [main] INFO  testCases.TC_001_AccountRegistrationTest - verifying customer registration
+16:41:58.205 [main] INFO  testCases.TC_001_AccountRegistrationTest - test passed..
+16:41:58.207 [main] INFO  testCases.TC_001_AccountRegistrationTest - ********* finished TC_001_AccountRegistrationTest ******
+16:42:00.446 [main] INFO  testCases.TC_002_LoginTest - ***** String TC_002_LoginTest ****
+16:42:01.781 [main] INFO  testCases.TC_002_LoginTest - **** Finished TC_002_LoginTest  ***** 
+16:43:27.723 [main] INFO  testCases.TC_001_AccountRegistrationTest - ********* staring TC_001_AccountRegistrationTest ******
+16:43:27.795 [main] INFO  testCases.TC_001_AccountRegistrationTest - clicking on myaccount link
+16:43:28.017 [main] INFO  testCases.TC_001_AccountRegistrationTest - clicking on registration link
+16:43:28.442 [main] INFO  testCases.TC_001_AccountRegistrationTest - Proving customer details
+16:43:29.063 [main] INFO  testCases.TC_001_AccountRegistrationTest - clicking on continue
+16:43:31.561 [main] INFO  testCases.TC_001_AccountRegistrationTest - verifying customer registration
+16:43:31.561 [main] INFO  testCases.TC_001_AccountRegistrationTest - test passed..
+16:43:31.563 [main] INFO  testCases.TC_001_AccountRegistrationTest - ********* finished TC_001_AccountRegistrationTest ******
+16:43:33.821 [main] INFO  testCases.TC_002_LoginTest - ***** String TC_002_LoginTest ****
+16:43:35.372 [main] INFO  testCases.TC_002_LoginTest - **** Finished TC_002_LoginTest  ***** 
